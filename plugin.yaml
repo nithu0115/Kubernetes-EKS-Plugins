@@ -1,0 +1,5 @@
+name: "k8s-dashboard-plugin-for-EKS"
+shortDesc: "Launch Kubernetes dashboard for EKS"
+longDesc: >
+  Launch Kubernetes dashboard for EKS
+command: ./k8s-ui-plugin-eks.sh
